@@ -5,7 +5,7 @@
 
 
 ### Lab 2
-Building a Parameter class inspired by Andrej Karpathy's micrograd.
-Implementation of auto backpropagation by using topological sort.
-Implementation the activations functions (2 of them) from lab 1.
-Implementation of gradient descent as a function seoparate from the class Parameter.
+Building a Parameter class inspired by Andrej Karpathy's micrograd.\\
+Implementation of auto backpropagation by using topological sort.\\
+Implementation the activations functions (2 of them) from lab 1.\\
+Implementation of gradient descent as a function separate from the class Parameter.
