@@ -16,3 +16,7 @@ Implementation of gradient descent as a function separate from the class Paramet
 
 ### Lab 3
 Creating own MLP class in which you can configure the number of hidden layers, the size of hidden layers and the activations used for each layer. Also building Dataset, DataLoader and training loop for classification task.
+
+
+### Lab 4
+Added BatchNorm and Dropout as a parameters which are optional for each layer of MLP class from Lab 3.
